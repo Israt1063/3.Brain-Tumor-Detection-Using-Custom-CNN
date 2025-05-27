@@ -97,7 +97,3 @@ model.eval()
 
 ---
 
-## License
-
-MIT License 
-
